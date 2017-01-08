@@ -1,0 +1,48 @@
+body{
+  font-family: 'Bree Serif', serif;
+  margin:0;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #F4E0DC;
+  border-radius: 0;
+}
+#collapsable-nav {
+  margin: 0px;
+  border: 2px;
+  border-color: #F5C4BA;
+}
+#nav-list a {
+  color: #F79E8C;
+  text-align: center;
+}
+#nav-list a:hover {
+  margin-top: 0px;
+  background: #F5C4BA;
+}
+#nav-list a {
+  font-size: 1.8em;
+}
+
+#nav-list hr {
+  background-color: #F79E8C;
+  border-color: #F79E8C;
+  border-width: 2px;
+}
+.navbar-header button.navbar-toggle {
+  border: 1px solid #F5C4BA;
+}
+.navbar-header button.navbar-toggle:hover, .navbar-header button.navbar-toggle:active, .navbar-header button.navbar-toggle:focus {
+  border: 1px solid #F4E0DC;
+  background: #F5C4BA;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+#lorem {
+  height:  1000px;
+}
